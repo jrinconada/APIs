@@ -5,6 +5,7 @@
 - **Activities** https://www.boredapi.com/api/activity
 - **Jokes** https://official-joke-api.appspot.com/random_joke
 - **Random User** https://randomuser.me/api/
+- **Users, Addresses, Banks, Appliances, Beers, Blood Types, Credit Cards** https://random-data-api.com/
 ## Sorted data
 - **USA Data** https://datausa.io/api/data?drilldowns=Nation&measures=Population
 - **Universities** http://universities.hipolabs.com/search?country=United+States
