@@ -13,6 +13,8 @@
 - **Bitcoin price** https://api.coindesk.com/v1/bpi/currentprice.json
 - **IP address** https://api.ipify.org?format=json
 - **IP address info** https://ipinfo.io/161.185.160.93/geo
+- **Basic DataBase** https://restful-api.dev/
+- **HTTP Requests** https://httpbin.org/
 ## Predictions
 - **Age** https://api.agify.io?name=meelad
 - **Gender** https://api.genderize.io?name=luc
